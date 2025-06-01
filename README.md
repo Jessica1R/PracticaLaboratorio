@@ -36,3 +36,4 @@ Alertar si un vehículo supera los 6 meses sin mantenimiento.
 Mostrar todos los vehículos registrados con su estado actual.
 Evitar valores negativos en distancias o precios.
 Validar formatos de fecha (YYYY-MM-DD).
+![image](https://github.com/user-attachments/assets/ad287dbf-69f0-4a73-b9bf-b020ecb81541)
