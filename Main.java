@@ -19,6 +19,10 @@ public class Main {
 
         do {
             System.out.println("\n~~~ | MENU DE GESTION DE FLOTA | ~~~");
+            System.out.println("Autores: \nJostin Xavier Vasquez Calderón \n" +
+             "David Alejandro Ruiz Sanchez \n" +
+             "Gyna Mayerly Yupanqui Romero \n" +
+             "Jessica Catalina Rivas Jimenez\n");
             System.out.println("1. | ~ Registrar vehiculo");
             System.out.println("2. | ~ Registrar viaje");
             System.out.println("3. | ~ Actualizar mantenimiento");
